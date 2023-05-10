@@ -1,6 +1,7 @@
-requests==2.25.1
+requests==2.30.0
 pyrogram
 tgcrypto
 pymongo[srv]
 python-dotenv
 bs4
+python-3.11.3
