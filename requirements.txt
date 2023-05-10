@@ -4,5 +4,5 @@ tgcrypto
 pymongo[srv]
 python-dotenv
 bs4
-python
+
 python-telegram-bot
